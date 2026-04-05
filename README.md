@@ -8,7 +8,7 @@
 
 ## Sobre mi
 
-Soy un apasionado **DevOps Engineer** y **Líder Técnico** con experiencia en el sector público y privado. Actualmente, me desempeño en una startup donde pongo en práctica mi enfoque proactivo y entusiasta para liderar equipos y proyectos. Me considero un líder natural, capaz de inspirar y guiar a mi equipo hacia el éxito en cada iniciativa que emprendemos.
+Soy un apasionado **DevOps Engineer** y **Líder Técnico** con experiencia en el sector público y privado. Actualmente, me desempeño en una startup donde pongo en práctica mi enfoque proactivo y entusiasta para liderar equipos y proyectos. Me considero un líder natural, capaz de inspirar y guiar a mi equipo hacia el éxito en cada iniciativa que emprendamos.
 
 Mi trayectoria profesional me ha permitido desarrollar una sólida base en la implementación de infraestructuras robustas, automatización de procesos y optimización de sistemas en entornos tanto en la nube como on-premise. Siempre busco innovar y encontrar las mejores soluciones tecnológicas para los desafíos que enfrentamos.
 
@@ -21,19 +21,16 @@ Fuera del trabajo, me encanta aprender sobre nuevas tecnologías y compartir mis
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">DevOps Monitor</h3>
+<h3 align="center">Bitbucket Repository Manager</h3>
 <div align="center">
-<a href="https://github.com/DevOpsWarriorsTeam/devops_monitor" target="_blank"><img src="https://i.imgur.com/cW8MS3C.png" width="400" height="150" alt="DevOps monitor"></a>
+<a href="https://github.com/AlanStefanov/bitbucket_repository_manager" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" alt="Bitbucket Repository Manager"></a>
 <p>
-<a href="https://github.com/DevOpsWarriorsTeam/devops_monitor" target="_blank">
+<a href="https://github.com/AlanStefanov/bitbucket_repository_manager" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-
-</a>
 </p>
-<p>Herramienta para visualiuzacion de Logs en entorno Docker Standalone y Compose <strong></strong> - Monitoreo de estado de tareas y servicios en AWS ECS. <strong></strong> con todo el código disponible para descargar.</p>
+<p>Herramienta CLI elegante para gestionar repositorios de Bitbucket Cloud. <strong></strong> Interfaz TUI para navegar, buscar y clonar repositorios con atajos de teclado estilo vim. <strong></strong></p>
 </div>
-                                                                                      
 
 
 ### ⚙️ &nbsp;GitHub Analytics
