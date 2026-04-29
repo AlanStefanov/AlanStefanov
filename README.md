@@ -12,7 +12,7 @@
 **Gerente de Ingeniería** | DevOps Engineer | Software Developer
 
 - 📍 La Plata, Argentina
-- 💼 [Saludia por farmu](https://saludiaporfarmu.com)
+- 💼 [Saludia por farmu](https://saludia.me)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alanstefanov)
 - 🐙 [GitHub](https://github.com/AlanStefanov)
 
