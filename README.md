@@ -1,9 +1,16 @@
 <div align="center">
-<h1 align="center">¡Hola, bienvenido!</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/jHvx9gP.png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alan_Stefanov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanstefanov/)](https://www.linkedin.com/in/alanstefanov/)  [![Gmail Badge](https://img.shields.io/badge/-alan.emanuel.stefanov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alan.emanuel.stefanov@gmail.com)](mailto:alan.emanuel.stefanov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Stefanov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alanstefanov/)
+[![Email](https://img.shields.io/badge/Email-alan.emanuel.stefanov@gmail.com-red?style=flat-square&logo=gmail)](mailto:alan.emanuel.stefanov@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AlanStefanov-black?style=flat-square&logo=github)](https://github.com/AlanStefanov)
+
+**Alan Stefanov** — Engineering Manager · DevOps Engineer · Software Developer · _La Plata, Argentina_
+
+---
+
+</div>
+
+<img src="https://i.imgur.com/jHvx9gP.png">
 
 ---
 
