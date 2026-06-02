@@ -55,10 +55,7 @@ A lo largo de mi carrera como **DevOps Engineer**, **DBA**, **Tech Lead** y **En
 | Proyecto | Descripción |
 |----------|-------------|
 | [**FinOps Kit AWS**](https://github.com/AlanStefanov/finops-kit-aws) → `pip install finops-kit-aws` | Analizador de costos y optimizador de recursos de AWS vía TUI. Escaneo de servicios no utilizados, estimación de costos RDS/Lambda, exportación CSV/PDF. Publicado en PyPI. |
-| [**FlowFinance**](https://github.com/AlanStefanov/flowFinance) | Plataforma de finanzas personales con bot de Telegram para carga por NLP, dashboard web con presupuestos, multi-moneda, analytics y deploy automatizado en AWS. |
-| [**CDF Elite**](https://github.com/AlanStefanov/cdf-elite) | CRM completo para gimnasios: gestión de alumnos, planes, membresías, colaboradores y dashboard con métricas en tiempo real. Express + EJS + SQLite. |
-| [**Simple Finance**](https://github.com/AlanStefanov/SimpleFinance) | App de finanzas personales con cuentas múltiples (ARS/USD), gastos fijos, tarjetas de crédito y chatbot NLP para carga conversacional. React + MUI + Express + MySQL. |
-| [**Microcréditos Stefanov**](https://github.com/AlanStefanov/financiera-stefanov) | Sistema de gestión de préstamos y clientes para mi PyME. Next.js + Turso (LibSQL) con dashboard, calculadora de cuotas y verificación BCRA. |
+
 | [**Bitbucket Repository Manager**](https://github.com/AlanStefanov/bitbucket_repository_manager) | CLI en Python para gestión masiva de repositorios en Bitbucket: crear, migrar, archivar y auditar proyectos vía API. |
 
 ---
