@@ -68,20 +68,28 @@ Cada herramienta nació de una necesidad concreta en mi trabajo diario. En lugar
 
 ---
 
-## Logros
+## Logros en empleo actual:
 
 - Reducción del **70% en costos de infraestructura de AWS** (de 10,600 USD a 3,200 USD mensuales en 8 meses) mediante principios de FinOps, arquitectura eficiente y adopción de herramientas open source. Este workflow está formalizado en [FinOps Kit AWS](https://github.com/AlanStefanov/finops-kit-aws).
-- Gestión de bases de datos MySQL/MariaDB en producción con replicación, backups automatizados y migraciones zero-downtime.
-- Liderazgo técnico de equipos multi-disciplinarios en startups de alto crecimiento.
 
+Te invito a ver la nota aqui: 
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7322816094266642432" target="_blank">
+    <img src="https://i.ibb.co/5PH8L0X/finops-Stefanov.png" alt="Ingeniería FinOps aplicada - Alan Stefanov" width="600" />
+  </a>
+</p>
+
+- **Diseño e implementación de un ecosistema interno *Self-Hosted*** basado en herramientas de código abierto para Business Intelligence (BI), observabilidad, gestión de proyectos y gobernanza técnica. Esta iniciativa democratizó el acceso a los datos y la documentación en toda la empresa, manteniendo una infraestructura de bajo costo, alta disponibilidad y escalabilidad mediante la contenedorización eficiente de servicios.
+- Gestión de bases de datos MySQL Aurora multi clusters en producción con replicación, backups automatizados y migraciones zero-downtime.
+- Liderazgo técnico de equipos multi-disciplinarios en startup de alto crecimiento.
 ---
 
 ## Educación
 
-- **Ingeniería Informática** (carrera incompleta) — Universidad Nacional Arturo Jauretche (2018 - presente)
+- **Ingeniería Informática** (carrera incompleta) — Universidad Nacional Arturo Jauretche
 - Decenas de cursos en Platzi sobre desarrollo web, DevOps, bases de datos y cloud computing
-- Programas especializados en DevOps Engineer y Cloud DevOps — EducacionIT (2023)
-- Cursos en AWS Educate y Skill Builder (2023)
+- Programas especializados en DevOps Engineer y Cloud DevOps — EducacionIT 
+- Cursos en AWS Educate y Skill Builder
 - Certificaciones de Coaching en ámbito startup y tecnología
 
 ---
