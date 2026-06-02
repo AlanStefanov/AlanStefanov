@@ -2,7 +2,7 @@
 
 # Alan Stefanov
 
-### Engineering Manager · Platform Engineering ·Developer Experience · FinOps · Cloud Architecture
+### Engineering Manager  · Developer Experience · Platform Engineering · FinOps · Cloud Architecture
 
 Construyendo plataformas escalables, liderando equipos y optimizando operaciones cloud.
 
