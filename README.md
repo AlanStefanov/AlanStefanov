@@ -1,119 +1,250 @@
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Stefanov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alanstefanov/)
-[![Email](https://img.shields.io/badge/Email-alan.emanuel.stefanov@gmail.com-red?style=flat-square&logo=gmail)](mailto:alan.emanuel.stefanov@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-AlanStefanov-black?style=flat-square&logo=github)](https://github.com/AlanStefanov)
+# Alan Stefanov
 
-**Alan Stefanov** — Engineering Manager · DevOps Engineer · Tech Lead · DBA · _La Plata, Argentina_
+### Engineering Manager · Platform Engineering ·Developer Experience · FinOps · Cloud Architecture
 
----
+Construyendo plataformas escalables, liderando equipos y optimizando operaciones cloud.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Stefanov-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/alanstefanov/)
+[![Email](https://img.shields.io/badge/Email-alan.emanuel.stefanov@gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:alan.emanuel.stefanov@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AlanStefanov-black?style=for-the-badge\&logo=github)](https://github.com/AlanStefanov)
 
 </div>
 
-<img src="https://i.imgur.com/jHvx9gP.png">
-
 ---
 
-# Alan Stefanov
-
-**Engineering Manager** | DevOps Engineer | Tech Lead | DBA | Software Developer
-
-- 📍 La Plata, Argentina
-- 🔗 [LinkedIn](https://www.linkedin.com/in/alanstefanov)
-- 🐙 [GitHub](https://github.com/AlanStefanov)
-
----
-
-## Biografía
-
-Ingeniero y líder técnico argentino especializado en DevOps, computación en la nube, infraestructura como código y administración de bases de datos. Actualmente se desempeña como Engineering Manager en Saludia por farmu, una startup colombiana del sector salud.
-
-Nacido el 6 de marzo de 1992 en Buenos Aires, Argentina.
-
----
-
-## Trayectoria profesional
-
-| Período | Empresa | Rol |
-|---------|---------|------|
-| 2015 - 2017 | Akaromsoft S.R.L. | Soporte Técnico y Help Desk (MSSQL, ERP VB6) |
-| 2017 - 2019 | Angras S.R.L. | Coordinator Help Desk |
-| 2019 - 2020 | Julasoft | DevOps |
-| 2020 - 2022 | Ministerio de Hacienda y Finanzas (PBA) | DevOps |
-| 2023 | CFOTech IT Global Services | Tech Lead |
-| 2023 - 2024 | Saludia por farmu | Sr DevOps Engineer |
-| 2024 - presente | Saludia por farmu | Engineering Manager |
-
----
-
-## Open Source — Herramientas liberadas a la comunidad
-
-A lo largo de mi carrera como **DevOps Engineer**, **DBA**, **Tech Lead** y **Engineering Manager**, fui desarrollando herramientas para resolver problemas reales de mi día a día: automatización de infraestructura, monitoreo de costos en la nube, gestión financiera, administración de repositorios, CRM para negocios físicos, y sistemas de crédito. Hoy estoy liberándolas todas como **open source** para que la comunidad pueda usarlas, mejorarlas y adaptarlas.
-
-### Proyectos destacados
-
-| Proyecto | Descripción |
-|----------|-------------|
-| [**FinOps Kit AWS**](https://github.com/AlanStefanov/finops-kit-aws) → `pip install finops-kit-aws` | Analizador de costos y optimizador de recursos de AWS vía TUI. Escaneo de servicios no utilizados, estimación de costos RDS/Lambda, exportación CSV/PDF. Publicado en PyPI. |
-
-| [**Bitbucket Repository Manager**](https://github.com/AlanStefanov/bitbucket_repository_manager) | CLI en Python para gestión masiva de repositorios en Bitbucket: crear, migrar, archivar y auditar proyectos vía API. |
-
----
-
-## Filosofía
-
-Cada herramienta nació de una necesidad concreta en mi trabajo diario. En lugar de resolver el problema una sola vez, las convertí en productos reutilizables, documentados y con CI/CD. Mi objetivo es que cualquier ingeniero —sin importar su seniority— pueda beneficiarse de ellas, aprender de su arquitectura y contribuir a mejorarlas.
-
-> *"Build tools you wish existed, then give them away."*
-
----
-
-## Logros en empleo actual:
-
-- Reducción del **70% en costos de infraestructura de AWS** (de 10,600 USD a 3,200 USD mensuales en 8 meses) mediante principios de FinOps, arquitectura eficiente y adopción de herramientas open source. Este workflow está formalizado en [FinOps Kit AWS](https://github.com/AlanStefanov/finops-kit-aws).
-
-Te invito a ver la nota aqui: 
 <p align="center">
-  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7322816094266642432" target="_blank">
-    <img src="https://i.ibb.co/5PH8L0X/finops-Stefanov.png" alt="Ingeniería FinOps aplicada - Alan Stefanov" width="600" />
+  <img src="https://i.ibb.co/BKK1DspJ/Black-Minimal-Motivation-Quote-Linked-In-Banner-1.png" alt="Alan Stefanov Banner"/>
+</p>
+
+---
+
+# 👋 Hola, soy Alan
+
+Soy **Engineering Manager**, **Developer Experience**, **Platform Engineer** y especialista en **Cloud Architecture**, con más de 10 años de experiencia ayudando organizaciones a construir plataformas confiables, escalables y sostenibles.
+
+Comencé mi carrera en soporte técnico y administración de bases de datos, evolucionando hacia infraestructura cloud, automatización, observabilidad, FinOps y liderazgo de equipos de ingeniería.
+
+Actualmente lidero equipos multidisciplinarios en el sector health-tech, participando en decisiones estratégicas de arquitectura, delivery, operaciones y crecimiento organizacional.
+
+---
+
+# 🚀 Impacto
+
+<table>
+<tr>
+<td align="center">
+<h2>70%</h2>
+Reducción de costos AWS
+</td>
+<td align="center">
+<h2>10+</h2>
+Años de experiencia
+</td>
+<td align="center">
+<h2>100+</h2>
+Clientes soportados
+</td>
+<td align="center">
+<h2>∞</h2>
+Automatizaciones
+</td>
+</tr>
+</table>
+
+---
+
+# 🏢 Trayectoria Profesional
+
+| Período               | Empresa                               | Posición                  |
+| --------------------- | ------------------------------------- | ------------------------- |
+| Ago 2024 - Actualidad | Saludia por farmu                     | Engineering Manager       |
+| Jul 2023 - Ago 2024   | Saludia por farmu                     | Senior DevOps Engineer    |
+| Mar 2023 - Jun 2023   | CFOTech IT Global Services            | Tech Lead                 |
+| Ene 2021 - Mar 2022   | Ministerio de Hacienda y Finanzas PBA | DevOps Engineer           |
+| Jul 2019 - Feb 2021   | Julasoft                              | DevOps Engineer           |
+| Abr 2017 - Mar 2019   | Angras S.R.L.                         | Help Desk Coordinator     |
+| Feb 2015 - Abr 2016   | Akaromsoft                            | Help Desk & T-SQL Support |
+
+---
+
+# 🎯 Actualmente enfocado en
+
+* Platform Engineering
+* Engineering Management
+* FinOps
+* Cloud Architecture
+* Kubernetes
+* Observabilidad
+* Developer Experience
+* Escalabilidad Organizacional
+* CI/CD
+* Site Reliability Engineering
+
+---
+
+# 🛠 Stack Tecnológico
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazon-aws)
+
+### Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat\&logo=kubernetes)
+
+### IaC & Automation
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat\&logo=terraform)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat\&logo=gnu-bash)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql)
+
+### OS & Tooling
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
+
+---
+
+# 📈 Logros Destacados
+
+## FinOps en AWS
+
+Durante mi etapa en Saludia lideré una iniciativa de optimización de costos que logró reducir el gasto mensual de infraestructura cloud en aproximadamente un 70%.
+
+### Antes
+
+💸 USD 10.600 / mes
+
+### Después
+
+✅ USD 3.200 / mes
+
+### Resultado
+
+* Mejor utilización de recursos
+* Arquitectura optimizada
+* Gobierno de costos
+* Automatización de análisis
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7322816094266642432">
+    <img src="https://i.ibb.co/5PH8L0X/finops-Stefanov.png" width="700">
   </a>
 </p>
 
-- **Diseño e implementación de un ecosistema interno *Self-Hosted*** basado en herramientas de código abierto para Business Intelligence (BI), observabilidad, gestión de proyectos y gobernanza técnica. Esta iniciativa democratizó el acceso a los datos y la documentación en toda la empresa, manteniendo una infraestructura de bajo costo, alta disponibilidad y escalabilidad mediante la contenedorización eficiente de servicios.
-- Gestión de bases de datos MySQL Aurora multi clusters en producción con replicación, backups automatizados y migraciones zero-downtime.
-- Liderazgo técnico de equipos multi-disciplinarios en startup de alto crecimiento.
 ---
 
-## Educación
+# 🔓 Open Source
 
-- **Ingeniería Informática** (carrera incompleta) — Universidad Nacional Arturo Jauretche
-- Decenas de cursos en Platzi sobre desarrollo web, DevOps, bases de datos y cloud computing
-- Programas especializados en DevOps Engineer y Cloud DevOps — EducacionIT 
-- Cursos en AWS Educate y Skill Builder
-- Certificaciones de Coaching en ámbito startup y tecnología
+A lo largo de mi carrera fui construyendo herramientas para resolver problemas reales relacionados con:
+
+* FinOps
+* Cloud Governance
+* Automatización
+* Observabilidad
+* Gestión de repositorios
+* Productividad de equipos
+
+Mi objetivo es liberar progresivamente estas soluciones para que puedan ser utilizadas por cualquier organización.
+
+## Proyectos destacados
+
+### FinOps Kit AWS
+
+Analizador de costos AWS desarrollado en Python con interfaz TUI.
+
+Características:
+
+* Cost Explorer
+* Detección de recursos huérfanos
+* Recomendaciones de ahorro
+* Exportación CSV/PDF
+* Reportes ejecutivos
+
+Repositorio:
+
+https://github.com/AlanStefanov/finops-kit-aws
 
 ---
 
-## Tecnologías
+### Bitbucket Repository Manager
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+CLI para administración masiva de repositorios.
+
+Características:
+
+* Auditorías
+* Migraciones
+* Archivado
+* Gestión de proyectos
+
+Repositorio:
+
+https://github.com/AlanStefanov/bitbucket_repository_manager
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+# 🧠 Filosofía
+
+Creo que la ingeniería moderna no consiste únicamente en desplegar software.
+
+Consiste en construir sistemas, equipos y procesos que permitan a una organización crecer de forma sostenible.
+
+Mi foco está en:
+
+* Reducir complejidad
+* Automatizar tareas repetitivas
+* Mejorar la experiencia de desarrollo
+* Optimizar costos
+* Crear equipos de alto rendimiento
+
+> Build tools you wish existed, then give them away.
+
+---
+
+# 🎓 Educación
+
+* Ingeniería Informática (carrera incompleta)
+* Universidad Nacional Arturo Jauretche
+
+Formación complementaria:
+
+* DevOps Engineer
+* Cloud Computing
+* AWS Educate
+* AWS Skill Builder
+* EducaciónIT
+* Platzi
+
+---
+
+# ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AlanStefanov">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanStefanov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanStefanov&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
+
+---
+
+# 📫 Contacto
+
+* LinkedIn: https://www.linkedin.com/in/alanstefanov
+* GitHub: https://github.com/AlanStefanov
+* Email: [alan.emanuel.stefanov@gmail.com](mailto:alan.emanuel.stefanov@gmail.com)
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
 </p>
