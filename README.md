@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-alan.emanuel.stefanov@gmail.com-red?style=flat-square&logo=gmail)](mailto:alan.emanuel.stefanov@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AlanStefanov-black?style=flat-square&logo=github)](https://github.com/AlanStefanov)
 
-**Alan Stefanov** — Engineering Manager · DevOps Engineer · Software Developer · _La Plata, Argentina_
+**Alan Stefanov** — Engineering Manager · DevOps Engineer · Tech Lead · DBA · _La Plata, Argentina_
 
 ---
 
@@ -16,10 +16,9 @@
 
 # Alan Stefanov
 
-**Gerente de Ingeniería** | DevOps Engineer | Software Developer
+**Engineering Manager** | DevOps Engineer | Tech Lead | DBA | Software Developer
 
 - 📍 La Plata, Argentina
-- 💼 [Saludia por farmu](https://saludia.me)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alanstefanov)
 - 🐙 [GitHub](https://github.com/AlanStefanov)
 
@@ -27,7 +26,7 @@
 
 ## Biografía
 
-Ingeniero y líder técnico argentino especializado en DevOps, computación en la nube e infraestructura como código. Actualmente se desempeña como Engineering Manager en Saludia por farmu, una startup colombiana del sector salud.
+Ingeniero y líder técnico argentino especializado en DevOps, computación en la nube, infraestructura como código y administración de bases de datos. Actualmente se desempeña como Engineering Manager en Saludia por farmu, una startup colombiana del sector salud.
 
 Nacido el 6 de marzo de 1992 en Buenos Aires, Argentina.
 
@@ -36,7 +35,7 @@ Nacido el 6 de marzo de 1992 en Buenos Aires, Argentina.
 ## Trayectoria profesional
 
 | Período | Empresa | Rol |
-|---------|---------|-----|
+|---------|---------|------|
 | 2015 - 2017 | Akaromsoft S.R.L. | Soporte Técnico y Help Desk (MSSQL, ERP VB6) |
 | 2017 - 2019 | Angras S.R.L. | Coordinator Help Desk |
 | 2019 - 2020 | Julasoft | DevOps |
@@ -47,23 +46,44 @@ Nacido el 6 de marzo de 1992 en Buenos Aires, Argentina.
 
 ---
 
-## Proyecto
+## Open Source — Herramientas liberadas a la comunidad
 
-Actualmente desarrolla un proyecto SaaS propio: una plataforma B2B de comparación de precios farmacéuticos para Colombia, construida como un monorepo pnpm con Express 5 para el backend, TypeScript SPA con Vite para el frontend, y Drizzle ORM con MySQL en AWS RDS.
+A lo largo de mi carrera como **DevOps Engineer**, **DBA**, **Tech Lead** y **Engineering Manager**, fui desarrollando herramientas para resolver problemas reales de mi día a día: automatización de infraestructura, monitoreo de costos en la nube, gestión financiera, administración de repositorios, CRM para negocios físicos, y sistemas de crédito. Hoy estoy liberándolas todas como **open source** para que la comunidad pueda usarlas, mejorarlas y adaptarlas.
+
+### Proyectos destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [**FinOps Kit AWS**](https://github.com/AlanStefanov/finops-kit-aws) → `pip install finops-kit-aws` | Analizador de costos y optimizador de recursos de AWS vía TUI. Escaneo de servicios no utilizados, estimación de costos RDS/Lambda, exportación CSV/PDF. Publicado en PyPI. |
+| [**FlowFinance**](https://github.com/AlanStefanov/flowFinance) | Plataforma de finanzas personales con bot de Telegram para carga por NLP, dashboard web con presupuestos, multi-moneda, analytics y deploy automatizado en AWS. |
+| [**CDF Elite**](https://github.com/AlanStefanov/cdf-elite) | CRM completo para gimnasios: gestión de alumnos, planes, membresías, colaboradores y dashboard con métricas en tiempo real. Express + EJS + SQLite. |
+| [**Simple Finance**](https://github.com/AlanStefanov/SimpleFinance) | App de finanzas personales con cuentas múltiples (ARS/USD), gastos fijos, tarjetas de crédito y chatbot NLP para carga conversacional. React + MUI + Express + MySQL. |
+| [**Microcréditos Stefanov**](https://github.com/AlanStefanov/financiera-stefanov) | Sistema de gestión de préstamos y clientes para mi PyME. Next.js + Turso (LibSQL) con dashboard, calculadora de cuotas y verificación BCRA. |
+| [**Bitbucket Repository Manager**](https://github.com/AlanStefanov/bitbucket_repository_manager) | CLI en Python para gestión masiva de repositorios en Bitbucket: crear, migrar, archivar y auditar proyectos vía API. |
+
+---
+
+## Filosofía
+
+Cada herramienta nació de una necesidad concreta en mi trabajo diario. En lugar de resolver el problema una sola vez, las convertí en productos reutilizables, documentados y con CI/CD. Mi objetivo es que cualquier ingeniero —sin importar su seniority— pueda beneficiarse de ellas, aprender de su arquitectura y contribuir a mejorarlas.
+
+> *"Build tools you wish existed, then give them away."*
 
 ---
 
 ## Logros
 
-- Reducción del 70% en costos de infraestructura de AWS (de 10,600 USD a 3,200 USD en 8 meses) mediante principios de FinOps, arquitectura eficiente y adopción de herramientas open source.
+- Reducción del **70% en costos de infraestructura de AWS** (de 10,600 USD a 3,200 USD mensuales en 8 meses) mediante principios de FinOps, arquitectura eficiente y adopción de herramientas open source. Este workflow está formalizado en [FinOps Kit AWS](https://github.com/AlanStefanov/finops-kit-aws).
+- Gestión de bases de datos MySQL/MariaDB en producción con replicación, backups automatizados y migraciones zero-downtime.
+- Liderazgo técnico de equipos multi-disciplinarios en startups de alto crecimiento.
 
 ---
 
 ## Educación
 
-- **Ingeniería Informática** (carrera incompleta) - Universidad Nacional Arturo Jauretche (2018 - presente)
+- **Ingeniería Informática** (carrera incompleta) — Universidad Nacional Arturo Jauretche (2018 - presente)
 - Decenas de cursos en Platzi sobre desarrollo web, DevOps, bases de datos y cloud computing
-- Programas especializados en DevOps Engineer y Cloud DevOps - EducacionIT (2023)
+- Programas especializados en DevOps Engineer y Cloud DevOps — EducacionIT (2023)
 - Cursos en AWS Educate y Skill Builder (2023)
 - Certificaciones de Coaching en ámbito startup y tecnología
 
@@ -78,6 +98,9 @@ Actualmente desarrolla un proyecto SaaS propio: una plataforma B2B de comparaci�
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
 
 ---
 
