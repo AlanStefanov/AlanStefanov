@@ -9,6 +9,7 @@ Construyendo plataformas escalables, liderando equipos y optimizando operaciones
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Stefanov-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/alanstefanov/)
 [![Email](https://img.shields.io/badge/Email-alan.emanuel.stefanov@gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:alan.emanuel.stefanov@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AlanStefanov-black?style=for-the-badge\&logo=github)](https://github.com/AlanStefanov)
+[![Web](https://img.shields.io/badge/Web-astefanov.com-10b981?style=for-the-badge\&logo=vercel)](https://astefanov.com)
 
 </div>
 
@@ -239,6 +240,7 @@ Formación complementaria:
 
 # 📫 Contacto
 
+* Web: https://astefanov.com
 * LinkedIn: https://www.linkedin.com/in/alanstefanov
 * GitHub: https://github.com/AlanStefanov
 * Email: [alan.emanuel.stefanov@gmail.com](mailto:alan.emanuel.stefanov@gmail.com)
