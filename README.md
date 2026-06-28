@@ -62,7 +62,7 @@ Automatizaciones
 | Ago 2024 - Actualidad | Saludia por farmu                     | Engineering Manager       |
 | Jul 2023 - Ago 2024   | Saludia por farmu                     | Senior DevOps Engineer    |
 | Mar 2023 - Jun 2023   | CFOTech IT Global Services            | Tech Lead                 |
-| Ene 2021 - Mar 2022   | Ministerio de Hacienda y Finanzas PBA | DevOps Engineer           |
+| Ene 2021 - Mar 2023   | Ministerio de Hacienda y Finanzas PBA | DevOps Engineer           |
 | Jul 2019 - Feb 2021   | Julasoft                              | DevOps Engineer           |
 | Abr 2017 - Mar 2019   | Angras S.R.L.                         | Help Desk Coordinator     |
 | Feb 2015 - Abr 2016   | Akaromsoft                            | Help Desk & T-SQL Support |
